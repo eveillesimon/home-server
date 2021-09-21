@@ -1,0 +1,10 @@
+#
+login1
+password1
+domains1
+#
+login2
+password2
+domains2
+#
+etc.
